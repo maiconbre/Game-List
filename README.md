@@ -50,7 +50,7 @@ Faça o push para o branch (git push origin feature/nome-da-feature)<br>
 Abra um pull request
 
 # 📝 Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo <a href="https://github.com/maiconbre/Game-List/blob/main/LICENSE">LICENSE</a> para detalhes.
 
 # 🎖️ Creditos 
 Feito com 💙 por <a href="https://github.com/maiconbre/">Maicon Brendon<a/>.
