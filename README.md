@@ -2,6 +2,7 @@
 
  Um projeto de back-end construído com Node.js, Express.js, Cors, Nodemon e SQLite.<br>
  Ele permite que os usuários mantenham uma lista de jogos já jogados ou concluídos.
+ 
 ## 🛠️ Instalação
 
 
@@ -13,12 +14,12 @@ $ <https://github.com/maiconbre/Game-List.git>
 $ npm install
 
 # Execute
-$ npm run dev
+$ npm start
 
 Acesse <http://localhost:3000> para visualizar a aplicação
 ```
 
-# 🛣️ Endpoints
+## 🛣️ Endpoints
 
 ```bash 
 ⚡GET http://localhost:3000/conteudo
@@ -49,8 +50,8 @@ Faça o commit das alterações (git commit -m 'Adiciona nova feature')<br>
 Faça o push para o branch (git push origin feature/nome-da-feature)<br>
 Abra um pull request
 
-# 📝 Licença
+## 📝 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo <a href="https://github.com/maiconbre/Game-List/blob/main/LICENSE">LICENSE</a> para detalhes.
 
-# 🎖️ Creditos 
+## 🎖️ Creditos 
 Feito com 💙 por <a href="https://github.com/maiconbre/">Maicon Brendon<a/>.
